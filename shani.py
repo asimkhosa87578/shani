@@ -1,2 +1,2 @@
-import shani
-shani.aorovel()
+bbbnsjajsmn.bbbb()
+b
